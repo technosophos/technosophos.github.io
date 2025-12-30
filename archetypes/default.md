@@ -1,6 +1,6 @@
 +++
 date = '{{ .Date }}'
-draft = true
+# draft = true
 publishDate = '{{ .Date }}'
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 description = ""

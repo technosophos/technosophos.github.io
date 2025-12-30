@@ -1,6 +1,5 @@
 +++
 date = '2025-12-30T14:20:10-07:00'
-draft = true
 publishDate = '2025-12-30T14:20:10-07:00'
 title = 'How This Site Works'
 description = "I created this site using Hugo and GitHub pages."
