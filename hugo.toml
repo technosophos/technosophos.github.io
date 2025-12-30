@@ -1,0 +1,69 @@
+baseURL = 'https://technosophos.github.io/'
+languageCode = 'en-us'
+title = 'TechnoSophos'
+theme = 'hugo-theme-cleanwhite'
+preserveTaxonomyNames = true
+
+[pagination]
+	pagerSize = 10 # front pagerSize
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+	slogan = "Technology. Wise."
+	SEOTitle = "Technosophos | Technology. Wise."
+	description = "Personal site of Matt Butcher (technosophos)"
+	keyword = "Matt Butcher"
+	#header_image = "img/tiberius.jpg"
+	header_image = "img/soh.jpg"
+	sidebar_about_description = "VP of Product @ Akamai, Writer, Speaker, Open Source Dev"
+	sidebar_avatar = "img/matt-profile-square.jpeg"
+
+	feature_tags = true
+	feature_condition_size = 1
+
+	friends = false
+	bookmarks = true
+	about_me = true
+	last_posts = true
+	last_posts_count = 5
+	
+	[params.social]
+	rss = true
+	email = "technosophos@gmail.com"
+	linkedin = "https://www.linkedin.com/in/mattbutcher"
+	github = "https://github.com/technosophos"
+
+	[[params.bookmark_link]]
+	title = "Fermyon"
+	href = "https://fermyon.com"
+
+	[[params.additional_menus]]
+	title = "About"
+	href = "/about/"
+	[[params.additional_menus]]
+	title = "GitHub"
+	href = "https://github.com/technosophos"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
+[mediaTypes]
+  [mediaTypes.'font/woff']
+    suffixes = ['woff']
+  [mediaTypes.'font/woff2']
+    suffixes = ['woff2']

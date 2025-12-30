@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on TechnoSophos</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on TechnoSophos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 11:51:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/2025/12/30/hello/</link>
+      <pubDate>Mon, 29 Dec 2025 11:51:43 -0700</pubDate>
+      <guid>http://localhost:1313/2025/12/30/hello/</guid>
+      <description>&lt;p&gt;After letting my old Technosophos site languish for a decade, I decided to start afresh.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
