@@ -14,4 +14,7 @@ During his career, Matt has worked for a variety of companies large and small, i
 
 Matt holds a PhD in Philosophy. He is interested in epistemology and ethics. He has taught at both undergraduate and graduate level.
 
-Matt enjoys hiking, drinking (and making) excellent coffee, and traveling.
+
+--
+
+I don't use much social media anymore. LinkedIn is about the only one I frequently check or update.
