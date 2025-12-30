@@ -10,6 +10,10 @@ preserveTaxonomyNames = true
 [outputs]
 home = ["HTML", "RSS"]
 
+[caches]
+	[caches.images]
+	dir = ":CacheDir/images"
+
 [params]
 	slogan = "Technology. Wise."
 	SEOTitle = "Technosophos | Technology. Wise."
