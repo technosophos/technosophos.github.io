@@ -6,14 +6,21 @@
     <description>Recent content on TechnoSophos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 11:51:43 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 14:20:10 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How This Site Works</title>
+      <link>http://localhost:1313/posts/how-this-site-works/</link>
+      <pubDate>Tue, 30 Dec 2025 14:20:10 -0700</pubDate>
+      <guid>http://localhost:1313/posts/how-this-site-works/</guid>
+      <description>&lt;p&gt;I created this site with &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo&lt;/a&gt;. It is running using GitHub pages, with my custom domain mapped to it.&lt;/p&gt;&#xA;&lt;p&gt;The theme I am using is called &lt;a href=&#34;https://github.com/zhaohuabing/hugo-theme-cleanwhite/tree/master&#34;&gt;Cleanwhite&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/2025/12/30/hello/</link>
       <pubDate>Mon, 29 Dec 2025 11:51:43 -0700</pubDate>
       <guid>http://localhost:1313/2025/12/30/hello/</guid>
-      <description>&lt;p&gt;After letting my old Technosophos site languish for a decade, I decided to start afresh.&lt;/p&gt;</description>
+      <description>&lt;p&gt;After letting my old Technosophos site languish for a decade, I decided to start afresh.&lt;/p&gt;&#xA;&lt;p&gt;For many years I ran a site called technosophos.com that had tips and tricks that I had learned along my engineering journey. I stopped updating the blog soon after Microsoft acquired Deis. When I left Microsoft to start Fermyon, I did most of my blogging on Fermyon itself.&lt;/p&gt;&#xA;&lt;p&gt;While porting content off of an old AWS account, I decided it was high time that I update the blog as well. So I am getting a clean start.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
