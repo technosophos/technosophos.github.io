@@ -42,6 +42,9 @@ home = ["HTML", "RSS"]
 	[[params.bookmark_link]]
 	title = "Fermyon"
 	href = "https://fermyon.com"
+	[[params.bookmark_link]]
+	title = "My posts on Dev.to"
+	href = "https://dev.to/technosophos"
 
 	[[params.additional_menus]]
 	title = "About"
